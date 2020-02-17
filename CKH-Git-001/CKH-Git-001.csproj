@@ -150,11 +150,7 @@
     <Content Include="images\webapps.png" />
     <Content Include="images\webpage-start.png" />
     <Content Include="images\whoisGM.png" />
-    <Content Include="page4a.aspx" />
-    <Content Include="page6.aspx" />
-    <Content Include="page5.aspx" />
     <Content Include="page1.aspx" />
-    <Content Include="page4.aspx" />
     <Content Include="page3.aspx" />
     <Content Include="page2.aspx" />
     <Content Include="Default.aspx" />
@@ -208,40 +204,12 @@
   <ItemGroup>
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
-    <Compile Include="page4a.aspx.cs">
-      <DependentUpon>page4a.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="page4a.aspx.designer.cs">
-      <DependentUpon>page4a.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="page6.aspx.cs">
-      <DependentUpon>page6.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="page6.aspx.designer.cs">
-      <DependentUpon>page6.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="page5.aspx.cs">
-      <DependentUpon>page5.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="page5.aspx.designer.cs">
-      <DependentUpon>page5.aspx</DependentUpon>
-    </Compile>
     <Compile Include="page1.aspx.cs">
       <DependentUpon>page1.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="page1.aspx.designer.cs">
       <DependentUpon>page1.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="page4.aspx.cs">
-      <DependentUpon>page4.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="page4.aspx.designer.cs">
-      <DependentUpon>page4.aspx</DependentUpon>
     </Compile>
     <Compile Include="page3.aspx.cs">
       <DependentUpon>page3.aspx</DependentUpon>
