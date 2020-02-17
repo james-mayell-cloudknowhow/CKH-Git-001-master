@@ -146,10 +146,10 @@ body {font-family: Arial, Helvetica, sans-serif;}
                         <li><a runat="server" href="~/page1">Page1</a></li>
                         <li><a runat="server" href="~/page2">Page2</a></li>
                         <li><a runat="server" href="~/page3">Page3</a></li>
-                        <li><a runat="server" href="~/page4">Page4</a></li>
+                        <!--<li><a runat="server" href="~/page4">Page4</a></li>
                         <li><a runat="server" href="~/page4a">Page4-1</a></li>
                         <li><a runat="server" href="~/page5">Page5</a></li>
-                        <li><a runat="server" href="~/page6">Process</a></li>
+                        <li><a runat="server" href="~/page6">Process</a></li>-->
                     </ul>
                 </div>
             </div>
